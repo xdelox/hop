@@ -39,7 +39,7 @@
         </dependency>
         <dependency>
             <groupId>org.apache.hop</groupId>
-            <artifactId>hop-plugins-tech-azure</artifactId>
+            <artifactId>hop-tech-azure</artifactId>
             <version>${project.parent.version}</version>
             <scope>test</scope>
         </dependency>
